@@ -1,0 +1,54 @@
+
+body {
+    background-image: url(/images/5.jpg);
+    background-position: center;
+    background-size: 100%;
+    
+    }
+
+
+.heading{
+    color: aqua;
+    
+}
+
+.navbar{
+    color: wheat;
+    
+    border-radius: 2px solid red;
+ 
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    list-style: none;
+    padding: 34px;
+
+    font-size: large;
+}
+
+.navbar li{
+    color: white;
+    margin: 35px;
+    padding: 2px 2px;
+    
+
+}
+
+.navbar li a{
+    text-decoration: none;
+}
+
+.tww{
+color: rgb(209, 27, 27);
+
+border-radius: 2px solid red;
+text-align: center;
+}
+
+
+.form{
+    border: 2px solid red;
+    border-radius: 2px
+/0%uj m,m\h;
+
+}
